@@ -1,5 +1,5 @@
 {
-  "name": "presidencc-slot-deposit-5000-via-dana",
+  "name": "presidencc-slot-deposit-login",
   "theme": "syntax",
   "version": "0.0.2",
   "description": "Presidencc - Situs Slot Online Gacor Terpercaya Deposit Via Dana No.1 2022",
@@ -10,9 +10,21 @@
     " situs slot gacor presidencc",
     "slot deposit presidencc"
   ],
-  "repository": "https://github.com/wiu78/asdasdas.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiu78/asdasdas.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/wiu78/asdasdas/issues"
+  },
+  "homepage": "https://github.com/wiu78/asdasdas#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
 }
