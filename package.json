@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wiu78/asdasdas.git"
+    "url": "https://github.com/wiu78/asdasdas.git"
   },
   "license": "MIT",
   "engines": {
